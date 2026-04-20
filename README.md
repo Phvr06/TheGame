@@ -1,17 +1,17 @@
 # The Game
 
-Projeto individual em Unity desenvolvido para a atividade de introducao rapida ao Unity da disciplina de Jogos Digitais.
+Projeto individual em Unity desenvolvido para a atividade de introdução rápida ao Unity da disciplina de Jogos Digitais.
 
 ## Sobre o jogo
 
-`The Game` é um jogo 2D em que o jogador precisa coletar todas as moedas na ordem correta para liberar o portal de saida antes que o tempo acabe.
+`The Game` é um jogo 2D em que o jogador precisa coletar todas as moedas na ordem correta para liberar o portal de saída antes que o tempo acabe.
 
 Durante a partida:
 
-- o tempo é uma mecanica central que pode resultar na derrota do jogador
+- o tempo é uma mecânica central que pode resultar na derrota do jogador
 - inimigos patrulham o labirinto e fazem o jogador perder vida e tempo
 - a interface mostra score, tempo, vidas e a ordem visual das moedas
-- o jogo possui menu inicial, HUD, tela de fim de jogo, audio e suporte a controle/joystick
+- o jogo possui menu inicial, HUD, tela de fim de jogo, áudio e suporte a controle/joystick
 
 ## Como jogar
 
@@ -27,9 +27,9 @@ Controles:
 
 Regras importantes:
 
-- as moedas so podem ser coletadas na ordem correta
+- as moedas só podem ser coletadas na ordem correta
 - encostar em inimigos reduz vidas e tambem remove tempo do cronometro
-- a partida termina em vitória ao alcancar o portal liberado
+- a partida termina em vitória ao alcançar o portal liberado
 - a partida termina em derrota se o tempo acabar ou se as vidas chegarem a zero
 
 ## Estrutura principal
@@ -44,12 +44,12 @@ Regras importantes:
 - `Assets/UIManager.cs`: HUD e painel de resultado
 - `Assets/GameAudioManager.cs`: musica e efeitos sonoros
 
-## Creditos
+## Créditos
 
 ### Fonte
 - fonte: `Assets/Fonts` - https://yukipixels.itch.io/boldpixels
 
-### Audio
+### Áudio
 
 - musica de fundo: `Assets/Audio/Music/Sunken Heart City  - Cody O'Quinn - 01 Sunken Heart City .wav` - https://youtu.be/ZF-CPF_Ndm4
 - efeitos sonoros:
