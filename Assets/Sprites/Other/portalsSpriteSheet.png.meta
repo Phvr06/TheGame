@@ -1,0 +1,282 @@
+fileFormatVersion: 2
+guid: 8b3d3e535f6760a4f8a38d7a82d3aaf7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8736670877043423977
+    second: portalsSpriteSheet_0
+  - first:
+      213: 5326893517794072691
+    second: portalsSpriteSheet_1
+  - first:
+      213: -5298146711067778338
+    second: portalsSpriteSheet_2
+  - first:
+      213: 4432714104489664533
+    second: portalsSpriteSheet_3
+  - first:
+      213: 2295662829318632292
+    second: portalsSpriteSheet_4
+  - first:
+      213: -2263870445366984689
+    second: portalsSpriteSheet_5
+  - first:
+      213: -5496662449379530870
+    second: portalsSpriteSheet_6
+  - first:
+      213: 4112277632875361283
+    second: portalsSpriteSheet_7
+  - first:
+      213: -1858192656706896062
+    second: portalsSpriteSheet_8
+  - first:
+      213: 8220338757564966811
+    second: portalsSpriteSheet_9
+  - first:
+      213: -4163405120007467948
+    second: portalsSpriteSheet_10
+  - first:
+      213: 8410877553763585027
+    second: portalsSpriteSheet_11
+  - first:
+      213: -7491454938965549010
+    second: portalsSpriteSheet_12
+  - first:
+      213: 8318531749265152752
+    second: portalsSpriteSheet_13
+  - first:
+      213: 4798764898779549738
+    second: portalsSpriteSheet_14
+  - first:
+      213: 7995420225213976927
+    second: portalsSpriteSheet_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bportal_1
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ea7ca1bfd3ee3970800000000000000
+      internalID: 8736670877043423977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bportal_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 146
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378527c6e6dece940800000000000000
+      internalID: 5326893517794072691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bportal_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 146
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed2a6e613a33976b0800000000000000
+      internalID: -5298146711067778338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bportal_4
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 146
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51068f41ef9248d30800000000000000
+      internalID: 4432714104489664533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 95f1ccb4e21ed274baba0a5c9c168ce2
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      bportal_1: 8736670877043423977
+      bportal_2: 5326893517794072691
+      bportal_3: -5298146711067778338
+      bportal_4: 4432714104489664533
+      portalsSpriteSheet_10: -4163405120007467948
+      portalsSpriteSheet_11: 8410877553763585027
+      portalsSpriteSheet_12: -7491454938965549010
+      portalsSpriteSheet_13: 8318531749265152752
+      portalsSpriteSheet_14: 4798764898779549738
+      portalsSpriteSheet_15: 7995420225213976927
+      portalsSpriteSheet_8: -1858192656706896062
+      portalsSpriteSheet_9: 8220338757564966811
+      rportal_1: 2295662829318632292
+      rportal_2: -2263870445366984689
+      rportal_3: -5496662449379530870
+      rportal_4: 4112277632875361283
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: 8a6c15a86d377584a97268dac7a0dfc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1110126541007599292
+    second: coins-chests-etc-2-0_0
+  - first:
+      213: 6677371199585168653
+    second: coins-chests-etc-2-0_1
+  - first:
+      213: 3179439825839413324
+    second: coins-chests-etc-2-0_2
+  - first:
+      213: -4783615127557352424
+    second: coins-chests-etc-2-0_3
+  - first:
+      213: 3546711308377936960
+    second: coins-chests-etc-2-0_4
+  - first:
+      213: -2976798012191111905
+    second: coins-chests-etc-2-0_5
+  - first:
+      213: -384133781660307682
+    second: coins-chests-etc-2-0_6
+  - first:
+      213: 7428233801177773207
+    second: coins-chests-etc-2-0_7
+  - first:
+      213: -6885073698904915356
+    second: coins-chests-etc-2-0_8
+  - first:
+      213: -5053005104965179263
+    second: coins-chests-etc-2-0_9
+  - first:
+      213: 5781152556637011241
+    second: coins-chests-etc-2-0_10
+  - first:
+      213: 47853134441211810
+    second: coins-chests-etc-2-0_11
+  - first:
+      213: -8547117569818187076
+    second: coins-chests-etc-2-0_12
+  - first:
+      213: 5986398663914978439
+    second: coins-chests-etc-2-0_13
+  - first:
+      213: -7693507295091667559
+    second: coins-chests-etc-2-0_14
+  - first:
+      213: 8435045845211337512
+    second: coins-chests-etc-2-0_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: yellow_coin_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 449428beac90890f0800000000000000
+      internalID: -1110126541007599292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_coin_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da2b05ab9caac50800000000000000
+      internalID: 6677371199585168653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_coin_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4853eb1da3af1c20800000000000000
+      internalID: 3179439825839413324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_coin_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81452cbd26f2d9db0800000000000000
+      internalID: -4783615127557352424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_coin_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0445ab8c423783130800000000000000
+      internalID: 3546711308377936960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15824bcaf940b6d0800000000000000
+      internalID: -2976798012191111905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe8ed5c584baaf0800000000000000
+      internalID: -384133781660307682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79430c32943661760800000000000000
+      internalID: 7428233801177773207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 462436413fd4370a0800000000000000
+      internalID: -6885073698904915356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188a05601ae10e9b0800000000000000
+      internalID: -5053005104965179263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lblue_coin_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 992
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92db0b2de97ca3050800000000000000
+      internalID: 5781152556637011241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7e1c71c220aa000800000000000000
+      internalID: 47853134441211810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbaac75dad9826980800000000000000
+      internalID: -8547117569818187076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78c76861ed5f31350800000000000000
+      internalID: 5986398663914978439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d4f2780eb2b3590800000000000000
+      internalID: -7693507295091667559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823d4f3618d4f0570800000000000000
+      internalID: 8435045845211337512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: yellow_coin_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1008
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87e3b870b2b994044be2505784e72da8
+      internalID: 703128207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: dblue_coin_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 976
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff06bcd359eb6c498cfac87ac841b57
+      internalID: -1584129654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_6
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa708e78b32f87946b53934a0db2727b
+      internalID: 188107527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_5
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d5c598a2fc212489c5250b2cad5826
+      internalID: 567830492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_4
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358be7cc9c9d3ef46b41e6dde9bda2bd
+      internalID: -525570802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_3
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4413814862c07f4d9f8a7ea943bfa11
+      internalID: 1244078823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8030677ca99ae4faca682f7aa6b305
+      internalID: 1206094847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: orange_coin_1
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 960
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6dfd626a38de624ea14d4af2ae0e4f1
+      internalID: 423554376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: heart
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 832
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e1dafad0654604db2a4664629d2efa
+      internalID: -1745690892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 9dfc80593bf7223459c727bb8d29db3c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      1: 423554376
+      dblue_coin_1: 47853134441211810
+      dblue_coin_2: -8547117569818187076
+      dblue_coin_3: 5986398663914978439
+      dblue_coin_4: -7693507295091667559
+      dblue_coin_5: 8435045845211337512
+      dblue_coin_6: -1584129654
+      heart: -1745690892
+      lblue_coin_1: 5781152556637011241
+      lblue_coin_2: -5053005104965179263
+      lblue_coin_3: -6885073698904915356
+      lblue_coin_4: 7428233801177773207
+      lblue_coin_5: -384133781660307682
+      lblue_coin_6: -2976798012191111905
+      orange_coin_1: 423554376
+      orange_coin_2: 1206094847
+      orange_coin_3: 1244078823
+      orange_coin_4: -525570802
+      orange_coin_5: 567830492
+      orange_coin_6: 188107527
+      yellow_coin_1: -1110126541007599292
+      yellow_coin_2: 703128207
+      yellow_coin_3: 6677371199585168653
+      yellow_coin_4: 3179439825839413324
+      yellow_coin_5: -4783615127557352424
+      yellow_coin_6: 3546711308377936960
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
