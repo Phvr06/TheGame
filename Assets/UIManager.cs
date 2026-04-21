@@ -166,7 +166,7 @@ public class UIManager : MonoBehaviour
                 continue;
             }
 
-            icon.rectTransform.anchoredPosition = new Vector2(startX + (i * (heartWidth + heartSpacing)), 0f);
+            icon.rectTransform.anchoredPosition = new Vector2(startX + (i * (heartWidth + heartSpacing)), -12f);
         }
     }
 
